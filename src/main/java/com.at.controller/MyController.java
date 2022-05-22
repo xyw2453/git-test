@@ -9,5 +9,6 @@ public class MyController {
         System.out.println("four commit");
         System.out.println("hot-fix second commit");
         System.out.println("five commit");
+        System.out.println("remote first commit");
     }
 }
