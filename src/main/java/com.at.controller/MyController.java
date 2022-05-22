@@ -11,5 +11,6 @@ public class MyController {
         System.out.println("five commit");
         System.out.println("remote first commit");
         System.out.println("edit by white1270");
+        System.out.println("edit by white1270 second");
     }
 }
