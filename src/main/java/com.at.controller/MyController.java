@@ -5,5 +5,6 @@ public class MyController {
         System.out.println("initial");
         System.out.println("second");
         System.out.println("third");
+        System.out.println("hot-fix first commit");
     }
 }
