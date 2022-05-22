@@ -10,5 +10,6 @@ public class MyController {
         System.out.println("hot-fix second commit");
         System.out.println("five commit");
         System.out.println("remote first commit");
+        System.out.println("edit by white1270");
     }
 }
